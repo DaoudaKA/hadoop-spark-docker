@@ -1,0 +1,1 @@
+echo "hello spark hello hadoop big data is fun spark is fast hadoop is powerful" > words.txt
